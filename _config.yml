@@ -10,7 +10,7 @@ user_description: Grace à RudCloud vous pouvez héberger une solution de cloud 
 user_title: Notre solution cloud pour la maison
 email: rudcloudfr@gmail.com
 github_username:  rudcloud
-medium_url: google.fr
+medium_url: rudcloud.fr
 
 exclude: ['package.json', 'src', 'node_modules', 'vendor']
 
